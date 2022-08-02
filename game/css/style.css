@@ -83,6 +83,7 @@
     box-shadow: 2px 2px 5px rgba(230, 227, 227, 0.89);
     box-sizing: border-box;
 }
+  
 a:hover {
     border: 2px solid white;
     transform: translate(-3px, -3px);
