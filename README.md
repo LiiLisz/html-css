@@ -9,5 +9,5 @@ Basta apenas clicar e ver minhas experiências...
 
 <a href="https://liarasampaio.github.io/projetos/projeto-social/social.html">Social</a>
 
-<a href="https://liarasampaio.github.io/projetos/site/index.html">Site Baluk</a>
+<a href="https://liarasampaio.github.io/projetos/projeto-site/index.html">Site Baluk</a>
 
