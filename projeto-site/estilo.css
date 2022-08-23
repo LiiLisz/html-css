@@ -48,12 +48,12 @@ header {
 }
 
 .menu .btn-menu:hover {
-    background-color: #124265;
+    background-color: #2c5b7c;
     color: white;
 }
 
 section.main {
-    background-image: url('image/maxresdefault.jpg');
+    background-color: #97b1c5;
     padding: 100px 0;
     background-position: center;
     background-size: cover;
@@ -166,6 +166,8 @@ section.sobre {
     border: 2px solid  #144d793b;
     width: 120px;
     height: 35px;
+    display: inline-block;
+    margin-left: 63%;
 }
 
 .botao:hover {
